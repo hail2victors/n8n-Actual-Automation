@@ -4,6 +4,8 @@
 > **Built and maintained by a real person running this stack daily.**
 > If something's broken or confusing, [open an issue](../../issues) — I respond within 48 hours.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow)](https://ko-fi.com/hail2victors)
+
 ---
 
 ## What's in This Repo
